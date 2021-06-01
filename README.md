@@ -18,7 +18,9 @@
 ### Finding Records
 
 <kbd>
+ <p>
  <img src="attachments/2.jpg?raw=true">
+ </p>
 </kbd></br></br>
 
 You can find a specific record by its ID or you can find multiple records by specifying search criteria.
